@@ -1,0 +1,2 @@
+1, This is a test in writing into file with FileO
+2, If you're reading this, it means that FileI works too
